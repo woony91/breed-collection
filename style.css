@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: arial;
+}
+
+.hidden {
+    display: none;
+}
+
+input {
+    width: 150px;
+}
